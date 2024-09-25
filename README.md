@@ -1,3 +1,3 @@
 # Mini_apartment_management
 
-![Mô hình dữ liệu quan hệ](../ERD.png)
+![Mô hình dữ liệu quan hệ](./img/ERD.png)
